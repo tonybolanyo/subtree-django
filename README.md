@@ -34,3 +34,6 @@ python manage.py runserver
 
 Push to origin/master
 
+Before add frontend subtree (wich is actually created) we create
+a simple app to serve the home page from a template. We do this in develop
+branch and make a commit.
