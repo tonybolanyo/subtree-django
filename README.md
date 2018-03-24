@@ -7,7 +7,7 @@ Create new repo on Github.
 
 Clone repo to local machine
 
-´git clone git@github.com:tonybolanyo/subtree-django.git´
+`git clone git@github.com:tonybolanyo/subtree-django.git`
 
 Create virtual environment and install basic django site.
 
@@ -31,3 +31,6 @@ Test it runs
 ```
 python manage.py runserver
 ```
+
+Push to origin/master
+
